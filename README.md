@@ -2,8 +2,8 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/feasantos">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=feasantos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feasantos&layout=compact&langs_count=16&theme=github_dark&count_private=true"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=feasantos&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feasantos&layout=compact&langs_count=16&theme=city_lights&count_private=true"/>
 </div>
   
 <div style="display: inline_block"><br>
