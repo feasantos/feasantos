@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**feasantos/feasantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block">
+  <a href="https://github.com/VitorDLeo%22%3E
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=VitorDLeo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true%22/%3E
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDLeo&layout=compact&langs_count=16&theme=github_dark&count_private=true%22/%3E
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img aligns="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg%22%3E
+  <img aligns="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg%22%3E
+  <img aligns="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg%22%3E
+  <img aligns="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg%22%3E
+  <img aligns="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg%22%3E
+  <img aligns="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg%22%3E
+</div>
