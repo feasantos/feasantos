@@ -1,5 +1,5 @@
 # Felipe Santos 
-<p> Após longos anos sendo entusiasta da tecnologia e de games, resolvi me dedicar ao desenvolvimento de aplicações de celular e web. Uma paixão que me levou a cursas Analise e Desenvolvimento de Sistemas.  </p>
+<p> Após longos anos sendo entusiasta da tecnologia e de games, resolvi me dedicar ao desenvolvimento de aplicações de celular e web. Uma paixão que me levou a cursar Analise e Desenvolvimento de Sistemas.  </p>
 
 
 
