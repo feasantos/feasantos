@@ -28,7 +28,7 @@ That’s why I focus on building solutions that truly make a difference.
 ### Talking about Personal Stuff:
 
 - 👨‍💻 I'm a **Software Developer**
-- 🤖 Focused on **AI Projects & Intelligent Systems**
+- 🤖 Focused on **AI Projects & Intelligent Systems - Vibe Coding**
 - 💬 JavaScript · TypeScript · Python · Android · Swift
 - ⚙️ Tools: VS Code · Git · Docker · Cursor
 - 📬 How to reach me: [felipe_fas87@hotmail.com](mailto:felipe_fas87@hotmail.com)
@@ -86,7 +86,6 @@ That’s why I focus on building solutions that truly make a difference.
 I’m currently open to opportunities in:
 
 - 🤖 AI Development  
-- ⚙️ Backend / Fullstack Engineering  
 - 📱 Mobile Development  
 - 🚀 Innovative Tech Projects  
 
