@@ -21,7 +21,7 @@ I enjoy solving complex problems and transforming ideas into efficient and impac
 
 That’s why I focus on building solutions that truly make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZueHFvamtpNHYwdDQ4ZHBpM2loc2RwMjltcDIxejFldTFyejExYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="408" height="318" />
 
 ---
 
