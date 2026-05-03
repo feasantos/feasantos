@@ -43,18 +43,6 @@ I build practical AI-powered solutions using Python and LLMs, develop cross-plat
 
 ---
 
-## 📌 Featured Projects
-
-> *(Pin your 3 best projects below — see descriptions in each repo)*
-
----
-
-## 📊 Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feasantos&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🔍 Open to Opportunities
 
 | Tipo | Status |
