@@ -50,8 +50,3 @@ I build practical AI-powered solutions using Python and LLMs, develop cross-plat
 | 🏢 CLT | ✅ Aberto |
 | 💼 PJ / Freelance | ✅ Aberto |
 | 🌍 Remote (Internacional) | ✅ Aberto |
-
-📬 **Contact:** 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/feasantos/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/feasantos)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:felipe_fas87@hotmail.com)
