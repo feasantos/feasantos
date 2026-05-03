@@ -50,3 +50,51 @@ I build practical AI-powered solutions using Python and LLMs, develop cross-plat
 | 🏢 CLT | ✅ Aberto |
 | 💼 PJ / Freelance | ✅ Aberto |
 | 🌍 Remote (Internacional) | ✅ Aberto |
+
+
+## 📌 Pinned Projects
+
+### 🤖 Job Fit Agent
+**AI agent that evaluates candidate-job compatibility using LLMs**
+
+- Built an intelligent agent that analyzes resumes and job descriptions to determine fit score
+- Uses LLM reasoning to extract skills, experience, and contextual relevance
+- Designed for recruitment automation and decision support
+- Reduces manual screening effort by automating candidate evaluation
+
+**Tech:** Python · LLM APIs · Prompt Engineering · NLP  
+🔗 https://github.com/feasantos/job-fit-agent
+
+---
+
+### 📊 FinanceAI
+**AI-powered personal finance assistant for smarter spending decisions**
+
+- Developed a system that analyzes user financial data and identifies cost-saving opportunities
+- Implements intelligent categorization and behavioral pattern detection
+- Generates actionable insights using AI-driven recommendations
+- Focused on real-world financial optimization, not just tracking
+
+**Tech:** Python · Node.js · TypeScript · AI APIs  
+🔗 https://github.com/feasantos/financeai
+
+---
+
+### 🎱 Pool Games
+**Interactive pool game with physics-based mechanics**
+
+- Built a functional pool game simulating real-world physics behavior
+- Implemented collision handling and game logic mechanics
+- Focused on performance and smooth gameplay experience
+- Demonstrates strong fundamentals in logic, state handling, and interaction systems
+
+**Tech:** JavaScript · Game Logic · Physics Simulation  
+🔗 https://github.com/feasantos/Pool-Games
+
+---
+
+## ⚡ What I'm Building Next
+
+- Multi-agent AI systems for automation
+- Real-world LLM applications (beyond chatbots)
+- Scalable AI tools for business workflows
